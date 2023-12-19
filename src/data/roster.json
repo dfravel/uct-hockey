@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Brady Gegatt",
+    "number": "1",
+    "hometown": "Falmouth",
+    "position": "Goalie",
+    "shop": "Horticulture",
+    "grade": "Senior",
+    "image": "/assets/images/1-geggatt.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Nolan Roche",
+    "number": "10",
+    "hometown": "Bourne",
+    "position": "Defense",
+    "shop": "Plumbing",
+    "grade": "Senior",
+    "image": "/assets/images/10-roche.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Nolan Sullivan",
+    "number": "11",
+    "hometown": "Sandwich",
+    "position": "Forward",
+    "shop": "Plumbing",
+    "grade": "Senior",
+    "image": "/assets/images/11-sullivan.jpeg"
+  }
+]
